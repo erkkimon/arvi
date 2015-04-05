@@ -68,3 +68,18 @@
 2015-04-05 19:50:33.464 arvi[12093:1782204] Resetting plugins due to page load.
 2015-04-05 19:50:33.659 arvi[12093:1782204] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/C65549AD-0F3F-4851-91AB-91ABF82D6B43/arvi.app/www/index.html#/app/feeds
 2015-04-05 19:50:38.180 arvi[12093:1782204] THREAD WARNING: ['InAppBrowser'] took '129.276123' ms. Plugin should use a background thread.
+2015-04-06 01:01:39.141 arvi[13260:1893794] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-06 01:01:39.143 arvi[13260:1893794] Multi-tasking -> Device: YES, App: YES
+2015-04-06 01:01:39.150 arvi[13260:1893794] Unlimited access to network resources
+2015-04-06 01:01:39.262 arvi[13260:1893794] [CDVTimer][keyboard] 0.081003ms
+2015-04-06 01:01:39.262 arvi[13260:1893794] [CDVTimer][TotalPluginStartup] 0.302970ms
+2015-04-06 01:01:39.425 arvi[13260:1893794] Resetting plugins due to page load.
+2015-04-06 01:01:39.643 arvi[13260:1893794] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/1F33165B-7651-48D0-B1B5-7F4D57B6E3D8/arvi.app/www/index.html#/app/feeds
+2015-04-06 01:01:51.334 arvi[13260:1893794] THREAD WARNING: ['InAppBrowser'] took '198.514893' ms. Plugin should use a background thread.
+2015-04-06 01:01:51.611 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-06 01:02:01.855 arvi[13260:1893794] THREAD WARNING: ['InAppBrowser'] took '57.312988' ms. Plugin should use a background thread.
+2015-04-06 01:02:02.410 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-06 01:02:14.558 arvi[13260:1893794] THREAD WARNING: ['InAppBrowser'] took '66.128906' ms. Plugin should use a background thread.
+2015-04-06 01:02:23.370 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-06 01:02:23.429 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-06 01:02:23.435 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
