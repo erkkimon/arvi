@@ -1,10 +1,5 @@
 <ion-view view-title="Arvi">
-            <ion-content ng-init="init()">
-                <div class="list">
-                    <div ng-repeat="entry in entries" class="item">
-                        <b>{{entry.title}}</b><br>
-                        <span ng-bind-html="entry.contentSnippet"></span>
-                    </div>
-                </div>
-            </ion-content>	
+    <ion-content>
+	<h1>{{feedItems}}</h1>
+    </ion-content>	
 </ion-view>

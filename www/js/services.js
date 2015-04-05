@@ -1,6 +1,6 @@
 angular.module('starter.services', [])
 
-.factory('DataSource', ['$http',function($http){
+.factory('Feeds', ['$http',function($http){
        return {
            get: function(callback){
                 $http.get(
@@ -22,3 +22,29 @@ angular.module('starter.services', [])
            }
        }
 }]);
+
+//.factory('Feeds', function($http) {
+//
+//	// http://rabidgadfly.com/2013/02/angular-and-xml-no-problem/
+//
+//	function getFeed(url, callback) {
+//		$http.get(url, {
+//			transformResponse: function(data) {
+//				var x2js = new X2JS();
+//				var json = x2js.xml_str2json(data);
+//				return json;
+//			}
+//		})
+//		.success(function(data, status) {
+//			callback(data)
+//		})
+//	}
+//
+//	feeds = function(data) {
+//		return data;
+//	}
+//
+//	return {
+//		feeds: feeds
+//	}
+//});
