@@ -1,9 +1,10 @@
 <ion-view view-title="Arvi">
-  <ion-content>
-    <ion-list>
-      <ion-item ng-repeat="playlist in playlists">
-        {{playlist.title}}
-      </ion-item>
-    </ion-list>
-  </ion-content>
+            <ion-content ng-init="init()">
+                <div class="list">
+                    <div ng-repeat="entry in entries" class="item">
+                        <b>{{entry.title}}</b><br>
+                        <span ng-bind-html="entry.contentSnippet"></span>
+                    </div>
+                </div>
+            </ion-content>	
 </ion-view>
