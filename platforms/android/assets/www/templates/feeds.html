@@ -1,0 +1,9 @@
+<ion-view view-title="Arvi">
+  <ion-content>
+	<ion-list ng-repeat="feedItem in feedItems" href="#" onclick="window.open(‘http://google.com’, ‘_blank’, 'location=yes');">
+	    <ion-item href="{{feedItem.link}}">
+	    {{feedItem.title}}!
+	  </ion-item>
+	</ion-list>
+  </ion-content>
+</ion-view>

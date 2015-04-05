@@ -1,0 +1,70 @@
+2015-04-05 19:37:04.029 arvi[10247:1773385] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Data/Application/8CFC757D-A5B0-4FEB-BD9F-F57CD4EDABC3/Library/Cookies/Cookies.binarycookies
+2015-04-05 19:37:04.121 arvi[10247:1773385] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-05 19:37:04.122 arvi[10247:1773385] Multi-tasking -> Device: YES, App: YES
+2015-04-05 19:37:04.153 arvi[10247:1773385] Unlimited access to network resources
+2015-04-05 19:37:04.717 arvi[10247:1773385] [CDVTimer][keyboard] 0.401020ms
+2015-04-05 19:37:04.717 arvi[10247:1773385] [CDVTimer][TotalPluginStartup] 0.698984ms
+2015-04-05 19:37:05.494 arvi[10247:1773385] Resetting plugins due to page load.
+2015-04-05 19:37:06.587 arvi[10247:1773385] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/BBF75013-C7C6-4DAF-931A-94493A1FD3FF/arvi.app/www/index.html#/app/feeds
+2015-04-05 19:37:44.540 arvi[10566:1774373] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Data/Application/22480DA4-157A-4A56-AA8E-2FF1062AB3F7/Library/Cookies/Cookies.binarycookies
+2015-04-05 19:37:44.626 arvi[10566:1774373] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-05 19:37:44.627 arvi[10566:1774373] Multi-tasking -> Device: YES, App: YES
+2015-04-05 19:37:44.634 arvi[10566:1774373] Unlimited access to network resources
+2015-04-05 19:37:44.743 arvi[10566:1774373] [CDVTimer][keyboard] 0.100970ms
+2015-04-05 19:37:44.744 arvi[10566:1774373] [CDVTimer][TotalPluginStartup] 0.565052ms
+2015-04-05 19:37:44.889 arvi[10566:1774373] Resetting plugins due to page load.
+2015-04-05 19:37:45.136 arvi[10566:1774373] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/F4A7B564-A62C-497F-B522-A1160FBAF978/arvi.app/www/index.html#/app/feeds
+2015-04-05 19:37:58.245 arvi[10864:1774960] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Data/Application/40BA604D-76FB-44EC-8D8B-BAB5607DF036/Library/Cookies/Cookies.binarycookies
+2015-04-05 19:37:58.318 arvi[10864:1774960] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-05 19:37:58.319 arvi[10864:1774960] Multi-tasking -> Device: YES, App: YES
+2015-04-05 19:37:58.326 arvi[10864:1774960] Unlimited access to network resources
+2015-04-05 19:37:58.438 arvi[10864:1774960] [CDVTimer][keyboard] 0.113010ms
+2015-04-05 19:37:58.438 arvi[10864:1774960] [CDVTimer][TotalPluginStartup] 0.392020ms
+2015-04-05 19:37:58.523 arvi[10864:1774960] Resetting plugins due to page load.
+2015-04-05 19:37:58.912 arvi[10864:1774960] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/F8595C0A-4A26-47D9-8439-78C7CDCD73CA/arvi.app/www/index.html#/app/feeds
+2015-04-05 19:38:10.983 arvi[10864:1774960] Resetting plugins due to page load.
+2015-04-05 19:38:13.699 arvi[10864:1774960] Finished load of: http://yle.fi/uutiset/usan_ohjustorjuntajarjestelman_kehitystyo_epaonnistui__ydinasepuolustuksessa_ammottava_aukko/7910741?origin=rss
+2015-04-05 19:38:22.295 arvi[10864:1774960] Resetting plugins due to page load.
+2015-04-05 19:38:24.392 arvi[10864:1774960] Finished load of: http://yle.fi/uutiset/
+2015-04-05 19:38:25.544 arvi[10864:1774960] Resetting plugins due to page load.
+2015-04-05 19:38:28.408 arvi[10864:1774960] Finished load of: http://yle.fi/uutisvahti/?ref=uutisvahti-uutiset-1
+2015-04-05 19:44:37.586 arvi[11198:1778096] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-05 19:44:37.587 arvi[11198:1778096] Multi-tasking -> Device: YES, App: YES
+2015-04-05 19:44:37.596 arvi[11198:1778096] Unlimited access to network resources
+2015-04-05 19:44:37.710 arvi[11198:1778096] [CDVTimer][keyboard] 0.070989ms
+2015-04-05 19:44:37.710 arvi[11198:1778096] [CDVTimer][TotalPluginStartup] 0.263035ms
+2015-04-05 19:44:37.872 arvi[11198:1778096] Resetting plugins due to page load.
+2015-04-05 19:44:38.130 arvi[11198:1778096] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/11B01B20-30A2-47C0-8B57-B414CFB05597/arvi.app/www/index.html#/app/feeds
+2015-04-05 19:44:46.055 arvi[11198:1778096] CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:44:46.055 arvi[11198:1778096] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:44:47.053 arvi[11198:1778096] CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:44:47.054 arvi[11198:1778096] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:48:20.727 arvi[11497:1780103] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-05 19:48:20.728 arvi[11497:1780103] Multi-tasking -> Device: YES, App: YES
+2015-04-05 19:48:20.735 arvi[11497:1780103] Unlimited access to network resources
+2015-04-05 19:48:20.861 arvi[11497:1780103] [CDVTimer][keyboard] 0.131011ms
+2015-04-05 19:48:20.861 arvi[11497:1780103] [CDVTimer][TotalPluginStartup] 0.490010ms
+2015-04-05 19:48:20.974 arvi[11497:1780103] Resetting plugins due to page load.
+2015-04-05 19:48:21.215 arvi[11497:1780103] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/867D791B-2A47-4489-9F70-4706F0344E02/arvi.app/www/index.html#/app/feeds
+2015-04-05 19:48:24.000 arvi[11497:1780103] CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:48:24.000 arvi[11497:1780103] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:48:24.700 arvi[11497:1780103] CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:48:24.701 arvi[11497:1780103] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:48:27.144 arvi[11497:1780103] CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:48:27.145 arvi[11497:1780103] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-04-05 19:49:50.069 arvi[11792:1781247] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-05 19:49:50.071 arvi[11792:1781247] Multi-tasking -> Device: YES, App: YES
+2015-04-05 19:49:50.078 arvi[11792:1781247] Unlimited access to network resources
+2015-04-05 19:49:50.196 arvi[11792:1781247] [CDVTimer][keyboard] 0.086010ms
+2015-04-05 19:49:50.196 arvi[11792:1781247] [CDVTimer][TotalPluginStartup] 0.308990ms
+2015-04-05 19:49:50.295 arvi[11792:1781247] Resetting plugins due to page load.
+2015-04-05 19:49:50.535 arvi[11792:1781247] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/BC718877-D8B5-4F47-9D24-5ABFF125B206/arvi.app/www/index.html#/app/feeds
+2015-04-05 19:49:55.618 arvi[11792:1781247] THREAD WARNING: ['InAppBrowser'] took '78.086182' ms. Plugin should use a background thread.
+2015-04-05 19:50:33.191 arvi[12093:1782204] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-05 19:50:33.193 arvi[12093:1782204] Multi-tasking -> Device: YES, App: YES
+2015-04-05 19:50:33.201 arvi[12093:1782204] Unlimited access to network resources
+2015-04-05 19:50:33.306 arvi[12093:1782204] [CDVTimer][keyboard] 0.184000ms
+2015-04-05 19:50:33.306 arvi[12093:1782204] [CDVTimer][TotalPluginStartup] 0.456035ms
+2015-04-05 19:50:33.464 arvi[12093:1782204] Resetting plugins due to page load.
+2015-04-05 19:50:33.659 arvi[12093:1782204] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/C65549AD-0F3F-4851-91AB-91ABF82D6B43/arvi.app/www/index.html#/app/feeds
+2015-04-05 19:50:38.180 arvi[12093:1782204] THREAD WARNING: ['InAppBrowser'] took '129.276123' ms. Plugin should use a background thread.
