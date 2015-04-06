@@ -1,9 +1,9 @@
 <ion-view view-title="Arvi" class="dark">
   <img src="img/news-default-background.jpg" style="position: fixed; top: 0px; left: 0px; z-index: -3" />
   <ion-content>
-	<div style="width: 100%" ng-repeat="feedItem in feedItems | orderBy:'timestamp'">
-		<ion-item ref="{{feedItem.link}}" class="item-text-wrap item-dark" style="background: url('{{feedItem.enclosure['_url']}}'); background-size: cover">
-		<span>Helsingin Sanomat ({{feedItem.pubDate}})</span><br /><br /><br /><br />
+	<div style="width: 100%" ng-repeat="feedItem in feedItems | orderBy:'-timestamp'">
+		<ion-item href="{{feedItem.link}}" class="item-text-wrap item-dark" style="background: url('{{feedItem.enclosure['_url']}}'); background-size: cover">
+		<span>Helsingin Sanomat ({{feedItem.link}} / {{feedItem.pubDate}})</span><br /><br /><br /><br />
 			<span style="font-size: 30px">{{feedItem.title}}</span> 
 			<!--<img src="{{feedItem.enclosure['_url']}}" style="position: absolute; width: 100%; top: 0px; left: 0px; overflow: hidden; z-index: -2" />-->
 			<img src="/img/news-gradient.png" style="position: absolute; width: 100%; height: 100%; opacity: 0.7; top: 0px; left: 0px; z-index: -1" />
