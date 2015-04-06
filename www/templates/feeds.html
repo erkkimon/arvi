@@ -2,7 +2,7 @@
   <ion-content>
 	<ion-list ng-repeat="feedItem in feedItems | orderBy:'timestamp'">
 		<ion-item href="{{feedItem.link}}">
-			{{feedItem.title}} ({{feedItem.timestamp}})
+		{{feedItem.title}} ({{feedItem.enclosure["_url"]}})
 		</ion-item>
 	</ion-list>
   </ion-content>

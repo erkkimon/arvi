@@ -83,3 +83,6 @@
 2015-04-06 01:02:23.370 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
 2015-04-06 01:02:23.429 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
 2015-04-06 01:02:23.435 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-06 10:56:06.325 arvi[13260:1893794] THREAD WARNING: ['InAppBrowser'] took '82.200928' ms. Plugin should use a background thread.
+2015-04-06 10:56:11.595 arvi[13260:1893794] THREAD WARNING: ['InAppBrowser'] took '58.924805' ms. Plugin should use a background thread.
+2015-04-06 10:56:11.963 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)

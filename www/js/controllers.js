@@ -19,6 +19,7 @@ angular.module('starter.controllers', [])
 			data.rss.channel["item"].forEach(function(feedItem) {
 				feedItem["timestamp"] = Date.parse(feedItem["pubDate"])/1000;
 				allFeedItems.push(feedItem);
+				console.log(feedItem.enclosure["_url"]);
 			});
 		});
 	});
