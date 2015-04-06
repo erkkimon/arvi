@@ -20,7 +20,7 @@ angular.module('starter.controllers', [])
 				feedItem["timestamp"] = Date.parse(feedItem["pubDate"])/1000;
 				if(!("enclosure" in feedItem)) {
 					feedItem["enclosure"] = [];
-					feedItem.enclosure["_url"] = "http://rantakuntoon.fi/wp-content/themes/rantakuntoon.fi/assets/img/preview-img.jpg";
+					feedItem.enclosure["_url"] = "/img/news-default-bg.png";
 				}
 				allFeedItems.push(feedItem);
 				//if(("_url" in feedItem.enclosure)) {

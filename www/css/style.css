@@ -1,1 +1,33 @@
 /* Empty. Add your own CSS if you like */
+
+.bar.bar-dark {
+	background-color: rgba(68,68,68,0.7) !important; /* or transparent, or background:none */
+}
+
+.scroll-content {
+	background-image:url("/img/app-bg.jpg");
+    overflow: visible !important;
+}
+
+.menu .scroll-content {
+	background: #fff;
+}
+
+.item .item-content {
+	background-color: transparent !important;
+	color: #FFF !important;
+}
+
+.item.item-dark {
+	background-color: rgba(0,0,0,0.0);
+}
+
+body .view-container.tab-content {
+  background-color: transparent;
+}
+
+body .pane, .menu, .view, .list, .item       {
+    background: transparent;
+}
+
+
