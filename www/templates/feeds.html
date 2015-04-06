@@ -1,9 +1,10 @@
 <ion-view view-title="Arvi">
   <ion-content>
-	<ion-list ng-repeat="feedItem in feedItems | orderBy:'timestamp'">
+	<div style="width: 100%" ng-repeat="feedItem in feedItems | orderBy:'timestamp'">
 		<ion-item href="{{feedItem.link}}">
-		{{feedItem.title}} ({{feedItem.enclosure["_url"]}})
+		<span>{{feedItem.title}}</span> 
+		<img src="{{feedItem.enclosure['_url']}}" />
 		</ion-item>
-	</ion-list>
+	</div>
   </ion-content>
 </ion-view>

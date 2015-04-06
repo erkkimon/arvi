@@ -18,7 +18,14 @@ angular.module('starter.controllers', [])
 			//allFeedItems = data.rss.channel.item;
 			data.rss.channel["item"].forEach(function(feedItem) {
 				feedItem["timestamp"] = Date.parse(feedItem["pubDate"])/1000;
+				if(!("enclosure" in feedItem)) {
+					feedItem["enclosure"] = [];
+					feedItem.enclosure["_url"] = "http://rantakuntoon.fi/wp-content/themes/rantakuntoon.fi/assets/img/preview-img.jpg";
+				}
 				allFeedItems.push(feedItem);
+				//if(("_url" in feedItem.enclosure)) {
+					//feedItem.enclosure["_url"] = "";
+				//}
 				console.log(feedItem.enclosure["_url"]);
 			});
 		});
