@@ -1235,3 +1235,26 @@
 2015-04-22 00:18:59.459 arvi[10409:1823540] THREAD WARNING: ['InAppBrowser'] took '101.906982' ms. Plugin should use a background thread.
 2015-04-22 00:19:05.226 arvi[10409:1823540] THREAD WARNING: ['InAppBrowser'] took '69.486084' ms. Plugin should use a background thread.
 2015-04-22 00:19:21.067 arvi[10409:1823540] THREAD WARNING: ['InAppBrowser'] took '58.860107' ms. Plugin should use a background thread.
+2015-04-22 01:00:28.409 arvi[11005:1856846] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-22 01:00:28.411 arvi[11005:1856846] Multi-tasking -> Device: YES, App: YES
+2015-04-22 01:00:28.419 arvi[11005:1856846] Unlimited access to network resources
+2015-04-22 01:00:28.517 arvi[11005:1856846] [CDVTimer][keyboard] 0.070989ms
+2015-04-22 01:00:28.517 arvi[11005:1856846] [CDVTimer][TotalPluginStartup] 0.258029ms
+2015-04-22 01:00:28.599 arvi[11005:1856846] Resetting plugins due to page load.
+2015-04-22 01:00:28.820 arvi[11005:1856846] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/2F16A626-91B6-49A1-BD6B-AE2B85877AA5/arvi.app/www/index.html#/app/feeds
+2015-04-22 01:01:29.941 arvi[11313:1857932] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-22 01:01:29.943 arvi[11313:1857932] Multi-tasking -> Device: YES, App: YES
+2015-04-22 01:01:29.951 arvi[11313:1857932] Unlimited access to network resources
+2015-04-22 01:01:30.050 arvi[11313:1857932] [CDVTimer][keyboard] 0.062048ms
+2015-04-22 01:01:30.050 arvi[11313:1857932] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-04-22 01:01:30.126 arvi[11313:1857932] Resetting plugins due to page load.
+2015-04-22 01:01:30.350 arvi[11313:1857932] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/290EBFFE-786A-4E84-BD60-56EA02CEB00A/arvi.app/www/index.html#/app/feeds
+2015-04-22 01:02:00.440 arvi[11614:1858729] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-22 01:02:00.441 arvi[11614:1858729] Multi-tasking -> Device: YES, App: YES
+2015-04-22 01:02:00.448 arvi[11614:1858729] Unlimited access to network resources
+2015-04-22 01:02:00.536 arvi[11614:1858729] [CDVTimer][keyboard] 0.064015ms
+2015-04-22 01:02:00.536 arvi[11614:1858729] [CDVTimer][TotalPluginStartup] 0.247002ms
+2015-04-22 01:02:00.608 arvi[11614:1858729] Resetting plugins due to page load.
+2015-04-22 01:02:00.796 arvi[11614:1858729] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/AB03D03D-FF5C-4D5D-ACD4-A3B97958DC1B/arvi.app/www/index.html#/app/feeds
+2015-04-22 01:02:07.191 arvi[11614:1858729] THREAD WARNING: ['InAppBrowser'] took '93.217041' ms. Plugin should use a background thread.
+2015-04-22 01:02:07.260 arvi[11614:1858729] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)

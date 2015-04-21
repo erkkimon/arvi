@@ -5,7 +5,7 @@
 }
 
 .scroll-content {
-	background-image:url("/img/app-bg.jpg");
+	background-image:url("../img/app-bg.jpg");
     overflow: visible !important;
 }
 
