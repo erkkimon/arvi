@@ -29,7 +29,6 @@ angular.module('starter.controllers', [])
 	var feedUrls = [
 		"http://yle.fi/uutiset/rss/paauutiset.rss", 
 		"http://www.iltalehti.fi/rss.xml",
-		"http://www.kouvolansanomat.fi/rss/uutiset.xml",
 		"http://www.hs.fi/rss/?osastot=kotimaa"	
 	];
 
@@ -39,6 +38,10 @@ angular.module('starter.controllers', [])
 			//allFeedItems = data.rss.channel.item;
 			data.rss.channel["item"].forEach(function(feedItem) {
 				feedItem["timestamp"] = Date.parse(feedItem["pubDate"])/1000;
+				feedItem["mediaName"] = feedItem["link"]
+					.replace(/^https?\:\/\//, "")
+					.replace(/^www./, "")
+					.replace(/\/.*/, "");
 				if(!("enclosure" in feedItem)) {
 					feedItem["enclosure"] = [];
 					feedItem.enclosure["_url"] = "/img/news-default-bg.png";
