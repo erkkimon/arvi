@@ -86,3 +86,1142 @@
 2015-04-06 10:56:06.325 arvi[13260:1893794] THREAD WARNING: ['InAppBrowser'] took '82.200928' ms. Plugin should use a background thread.
 2015-04-06 10:56:11.595 arvi[13260:1893794] THREAD WARNING: ['InAppBrowser'] took '58.924805' ms. Plugin should use a background thread.
 2015-04-06 10:56:11.963 arvi[13260:1893794] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-21 17:09:57.294 arvi[1445:185694] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 17:09:57.297 arvi[1445:185694] Multi-tasking -> Device: YES, App: YES
+2015-04-21 17:09:57.326 arvi[1445:185694] Unlimited access to network resources
+2015-04-21 17:09:57.717 arvi[1445:185694] [CDVTimer][keyboard] 0.355005ms
+2015-04-21 17:09:57.717 arvi[1445:185694] [CDVTimer][TotalPluginStartup] 0.546992ms
+2015-04-21 17:09:57.918 arvi[1445:185694] Resetting plugins due to page load.
+2015-04-21 17:09:58.256 arvi[1445:185694] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/986D9D6A-9C90-46AB-AF22-939BFF76C74B/arvi.app/www/index.html#/app/feeds
+2015-04-21 17:09:59.663 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.664 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.664 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.664 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.664 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.664 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.665 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.665 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.665 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.665 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.665 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.666 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.666 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.666 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.666 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.759 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.760 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.760 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.760 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.760 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.760 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.760 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.761 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.761 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.761 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.761 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.761 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.761 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.762 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.762 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.762 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.762 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.762 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.763 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.763 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.763 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.763 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.763 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.763 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:09:59.764 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:10:00.133 arvi[1445:185694] http://img.yle.fi/uutiset/kotimaa/article5355917.ece/ALTERNATES/w205h115/poliisi+logo+tunnus
+2015-04-21 17:10:00.134 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:10:00.134 arvi[1445:185694] http://img.yle.fi/uutiset/kotimaa/article6903758.ece/ALTERNATES/w205h115/tukiopetus+opetus+koulu+oppitunti+luokka+kielten+opiskelu+englanti+yl%C3%A4koulu+yl%C3%A4-aste
+2015-04-21 17:10:00.134 arvi[1445:185694] http://img.yle.fi/uutiset/tampere/article7939604.ece/ALTERNATES/w205h115/Sanna+Marin.jpg
+2015-04-21 17:10:00.134 arvi[1445:185694] http://img.yle.fi/uutiset/kotimaa/article7944852.ece/ALTERNATES/w205h115/LKS+20150421_LKS_mtv.jpg
+2015-04-21 17:10:00.135 arvi[1445:185694] http://img.yle.fi/uutiset/hame/article7944819.ece/ALTERNATES/w205h115/Luonnonvarakeskuksen+p%C3%A4%C3%A4johtaja+Mari+Walls.jpg
+2015-04-21 17:10:00.135 arvi[1445:185694] http://img.yle.fi/uutiset/ulkomaat/article7944288.ece/ALTERNATES/w205h115/21_4+Auschwitzin+kirjanpit%C3%A4j%C3%A4+Oskar+Gr%C3%B6ning+51898238.jpg
+2015-04-21 17:10:00.135 arvi[1445:185694] http://img.yle.fi/uutiset/ulkomaat/article7882551.ece/ALTERNATES/w205h115/siviililiitto1.jpg
+2015-04-21 17:10:00.135 arvi[1445:185694] http://img.yle.fi/uutiset/keski-suomi/article7943925.ece/ALTERNATES/w205h115/%C3%84%C3%A4nekoski+Mets%C3%A4+Group+Mets%C3%A4+Fibre+biotuotetehdas+sellutehdas+havainnekuva.jpg
+2015-04-21 17:10:00.136 arvi[1445:185694] http://img.yle.fi/uutiset/kotimaa/article6851253.ece/ALTERNATES/w205h115/Flybe
+2015-04-21 17:10:00.136 arvi[1445:185694] http://img.yle.fi/uutiset/etela-savo/article7943583.ece/ALTERNATES/w205h115/J%C3%A4%C3%A4kasa+Kangasniemi.jpg
+2015-04-21 17:10:00.136 arvi[1445:185694] http://img.yle.fi/uutiset/luonto/article7943333.ece/ALTERNATES/w205h115/Kaskelotti+valas+merentutkimus+
+2015-04-21 17:10:00.136 arvi[1445:185694] http://img.yle.fi/uutiset/kotimaa/article7943119.ece/ALTERNATES/w205h115/sara+saara+forsberg+Smokahontas+17.4.2015+
+2015-04-21 17:10:00.137 arvi[1445:185694] http://img.yle.fi/uutiset/ulkomaat/article7944793.ece/ALTERNATES/w205h115/simpanssi+chimpanzee.jpg
+2015-04-21 17:10:00.137 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:10:00.137 arvi[1445:185694] /img/news-default-bg.png
+2015-04-21 17:10:00.137 arvi[1445:185694] http://img.yle.fi/uutiset/kainuu/article7863796.ece/ALTERNATES/w205h115/jukka+vetola+p%C3%A4%C3%A4luottamusmies+.jpg
+2015-04-21 17:10:00.138 arvi[1445:185694] http://img.yle.fi/uutiset/satakunta/article7848294.ece/ALTERNATES/w205h115/Lasten-+ja+naistentalo.jpg
+2015-04-21 17:10:26.150 arvi[1445:185694] Resetting plugins due to page load.
+2015-04-21 17:10:31.456 arvi[1445:185694] Finished load of: http://yle.fi/uutiset/hercules-_ja_leo-simpanssien_oikeus_vapauteen_testataan_oikeudessa_usassa/7944694?origin=rss
+2015-04-21 17:11:07.349 arvi[1445:185694] Resetting plugins due to page load.
+2015-04-21 17:11:35.684 arvi[1445:185694] Finished load of: http://yle.fi/
+2015-04-21 17:38:30.827 arvi[1908:505631] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 17:38:30.828 arvi[1908:505631] Multi-tasking -> Device: YES, App: YES
+2015-04-21 17:38:30.850 arvi[1908:505631] Unlimited access to network resources
+2015-04-21 17:38:31.157 arvi[1908:505631] [CDVTimer][keyboard] 0.490010ms
+2015-04-21 17:38:31.158 arvi[1908:505631] [CDVTimer][TotalPluginStartup] 0.683010ms
+2015-04-21 17:38:31.322 arvi[1908:505631] Resetting plugins due to page load.
+2015-04-21 17:38:31.666 arvi[1908:505631] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/6968BCC5-21B0-455F-803D-FDC56F9942D0/arvi.app/www/index.html#/app/feeds
+2015-04-21 17:38:45.266 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.267 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.267 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.267 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.267 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.268 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.268 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.268 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.268 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.268 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.269 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.269 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.269 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.269 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.269 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.270 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.270 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.270 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.270 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.270 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.271 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.271 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.271 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.271 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:45.272 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:48.164 arvi[1908:505631] http://img.yle.fi/uutiset/ulkomaat/article7944288.ece/ALTERNATES/w205h115/21_4+Auschwitzin+kirjanpit%C3%A4j%C3%A4+Oskar+Gr%C3%B6ning+51898238.jpg
+2015-04-21 17:38:48.164 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:48.165 arvi[1908:505631] http://img.yle.fi/uutiset/kotimaa/article6903758.ece/ALTERNATES/w205h115/tukiopetus+opetus+koulu+oppitunti+luokka+kielten+opiskelu+englanti+yl%C3%A4koulu+yl%C3%A4-aste
+2015-04-21 17:38:48.165 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:48.165 arvi[1908:505631] http://img.yle.fi/uutiset/kotimaa/article7943524.ece/ALTERNATES/w205h115/kahvimuki+pahvimuki+kahvi+roska+ekologisuus
+2015-04-21 17:38:48.165 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:48.166 arvi[1908:505631] http://img.yle.fi/uutiset/kotimaa/article7944852.ece/ALTERNATES/w205h115/LKS+20150421_LKS_mtv.jpg
+2015-04-21 17:38:48.166 arvi[1908:505631] http://img.yle.fi/uutiset/hame/article7944819.ece/ALTERNATES/w205h115/Luonnonvarakeskuksen+p%C3%A4%C3%A4johtaja+Mari+Walls.jpg
+2015-04-21 17:38:48.166 arvi[1908:505631] http://img.yle.fi/uutiset/keski-suomi/article7943925.ece/ALTERNATES/w205h115/%C3%84%C3%A4nekoski+Mets%C3%A4+Group+Mets%C3%A4+Fibre+biotuotetehdas+sellutehdas+havainnekuva.jpg
+2015-04-21 17:38:48.166 arvi[1908:505631] http://img.yle.fi/uutiset/ulkomaat/article7882551.ece/ALTERNATES/w205h115/siviililiitto1.jpg
+2015-04-21 17:38:48.167 arvi[1908:505631] http://img.yle.fi/uutiset/kotimaa/article6851253.ece/ALTERNATES/w205h115/Flybe
+2015-04-21 17:38:48.167 arvi[1908:505631] http://img.yle.fi/uutiset/etela-savo/article7943583.ece/ALTERNATES/w205h115/J%C3%A4%C3%A4kasa+Kangasniemi.jpg
+2015-04-21 17:38:48.167 arvi[1908:505631] http://img.yle.fi/uutiset/luonto/article7943333.ece/ALTERNATES/w205h115/Kaskelotti+valas+merentutkimus+
+2015-04-21 17:38:48.167 arvi[1908:505631] http://img.yle.fi/uutiset/kotimaa/article7943119.ece/ALTERNATES/w205h115/sara+saara+forsberg+Smokahontas+17.4.2015+
+2015-04-21 17:38:48.167 arvi[1908:505631] http://img.yle.fi/uutiset/ulkomaat/article7944793.ece/ALTERNATES/w205h115/simpanssi+chimpanzee.jpg
+2015-04-21 17:38:48.168 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:48.168 arvi[1908:505631] http://img.yle.fi/uutiset/kainuu/article7863796.ece/ALTERNATES/w205h115/jukka+vetola+p%C3%A4%C3%A4luottamusmies+.jpg
+2015-04-21 17:38:48.168 arvi[1908:505631] http://img.yle.fi/uutiset/satakunta/article7848294.ece/ALTERNATES/w205h115/Lasten-+ja+naistentalo.jpg
+2015-04-21 17:38:50.658 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.658 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.658 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.658 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.658 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.659 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.659 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.659 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.659 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.660 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.660 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.660 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.660 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.660 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:50.661 arvi[1908:505631] /img/news-default-bg.png
+2015-04-21 17:38:58.876 arvi[1908:505631] Resetting plugins due to page load.
+2015-04-21 17:44:59.432 arvi[2950:551548] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 17:44:59.434 arvi[2950:551548] Multi-tasking -> Device: YES, App: YES
+2015-04-21 17:44:59.463 arvi[2950:551548] Unlimited access to network resources
+2015-04-21 17:44:59.773 arvi[2950:551548] [CDVTimer][keyboard] 0.069976ms
+2015-04-21 17:44:59.774 arvi[2950:551548] [CDVTimer][TotalPluginStartup] 0.290990ms
+2015-04-21 17:44:59.934 arvi[2950:551548] Resetting plugins due to page load.
+2015-04-21 17:45:00.337 arvi[2950:551548] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/E908A6E9-DCA6-49B7-B536-5FFA77A2FE0A/arvi.app/www/index.html#/app/feeds
+2015-04-21 17:45:08.200 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.200 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.201 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.201 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.201 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.201 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.201 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.202 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.202 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.202 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.202 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.202 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.203 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.203 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.203 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.203 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.203 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.204 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.204 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.204 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.204 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.204 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.205 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.205 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:08.205 arvi[2950:551548] /img/news-default-bg.png
+2015-04-21 17:45:10.387 arvi[2950:551548] Resetting plugins due to page load.
+2015-04-21 17:45:14.507 arvi[2950:551548] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2015-04-21 17:45:14.508 arvi[2950:551548] Resetting plugins due to page load.
+2015-04-21 17:45:50.722 arvi[3315:568733] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 17:45:50.723 arvi[3315:568733] Multi-tasking -> Device: YES, App: YES
+2015-04-21 17:45:50.730 arvi[3315:568733] Unlimited access to network resources
+2015-04-21 17:45:50.839 arvi[3315:568733] [CDVTimer][keyboard] 0.075996ms
+2015-04-21 17:45:50.839 arvi[3315:568733] [CDVTimer][TotalPluginStartup] 0.265002ms
+2015-04-21 17:45:50.955 arvi[3315:568733] Resetting plugins due to page load.
+2015-04-21 17:45:51.226 arvi[3315:568733] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/93BA877E-641B-4C59-8332-E63EB0F25C58/arvi.app/www/index.html#/app/feeds
+2015-04-21 17:45:52.257 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.257 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.258 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.258 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.258 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.258 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.258 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.258 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.259 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.259 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.259 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.259 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.259 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.259 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.259 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.260 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.260 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.260 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.260 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.260 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.260 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.261 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.261 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.261 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.261 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.392 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.392 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.392 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.392 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.393 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.393 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.393 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.393 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.393 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.394 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.394 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.394 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.394 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.394 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.395 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.952 arvi[3315:568733] http://img.yle.fi/uutiset/ulkomaat/article7944288.ece/ALTERNATES/w205h115/21_4+Auschwitzin+kirjanpit%C3%A4j%C3%A4+Oskar+Gr%C3%B6ning+51898238.jpg
+2015-04-21 17:45:52.952 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.952 arvi[3315:568733] http://img.yle.fi/uutiset/kotimaa/article6903758.ece/ALTERNATES/w205h115/tukiopetus+opetus+koulu+oppitunti+luokka+kielten+opiskelu+englanti+yl%C3%A4koulu+yl%C3%A4-aste
+2015-04-21 17:45:52.952 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.953 arvi[3315:568733] http://img.yle.fi/uutiset/kotimaa/article7943524.ece/ALTERNATES/w205h115/kahvimuki+pahvimuki+kahvi+roska+ekologisuus
+2015-04-21 17:45:52.953 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.953 arvi[3315:568733] http://img.yle.fi/uutiset/kotimaa/article7944852.ece/ALTERNATES/w205h115/LKS+20150421_LKS_mtv.jpg
+2015-04-21 17:45:52.953 arvi[3315:568733] http://img.yle.fi/uutiset/hame/article7944819.ece/ALTERNATES/w205h115/Luonnonvarakeskuksen+p%C3%A4%C3%A4johtaja+Mari+Walls.jpg
+2015-04-21 17:45:52.953 arvi[3315:568733] http://img.yle.fi/uutiset/keski-suomi/article7943925.ece/ALTERNATES/w205h115/%C3%84%C3%A4nekoski+Mets%C3%A4+Group+Mets%C3%A4+Fibre+biotuotetehdas+sellutehdas+havainnekuva.jpg
+2015-04-21 17:45:52.954 arvi[3315:568733] http://img.yle.fi/uutiset/ulkomaat/article7882551.ece/ALTERNATES/w205h115/siviililiitto1.jpg
+2015-04-21 17:45:52.954 arvi[3315:568733] http://img.yle.fi/uutiset/kotimaa/article6851253.ece/ALTERNATES/w205h115/Flybe
+2015-04-21 17:45:52.954 arvi[3315:568733] http://img.yle.fi/uutiset/etela-savo/article7943583.ece/ALTERNATES/w205h115/J%C3%A4%C3%A4kasa+Kangasniemi.jpg
+2015-04-21 17:45:52.954 arvi[3315:568733] http://img.yle.fi/uutiset/luonto/article7943333.ece/ALTERNATES/w205h115/Kaskelotti+valas+merentutkimus+
+2015-04-21 17:45:52.955 arvi[3315:568733] http://img.yle.fi/uutiset/kotimaa/article7943119.ece/ALTERNATES/w205h115/sara+saara+forsberg+Smokahontas+17.4.2015+
+2015-04-21 17:45:52.955 arvi[3315:568733] http://img.yle.fi/uutiset/ulkomaat/article7944793.ece/ALTERNATES/w205h115/simpanssi+chimpanzee.jpg
+2015-04-21 17:45:52.955 arvi[3315:568733] /img/news-default-bg.png
+2015-04-21 17:45:52.955 arvi[3315:568733] http://img.yle.fi/uutiset/kainuu/article7863796.ece/ALTERNATES/w205h115/jukka+vetola+p%C3%A4%C3%A4luottamusmies+.jpg
+2015-04-21 17:45:52.956 arvi[3315:568733] http://img.yle.fi/uutiset/satakunta/article7848294.ece/ALTERNATES/w205h115/Lasten-+ja+naistentalo.jpg
+2015-04-21 17:46:05.552 arvi[3315:568733] Resetting plugins due to page load.
+2015-04-21 17:46:10.338 arvi[3315:568733] Finished load of: http://yle.fi/uutiset/luulitko_etta_kestomuki_on_aina_kertakayttomukia_ekologisempi_kayttotapa_ratkaisee/7933832?origin=rss
+2015-04-21 17:46:43.417 arvi[3626:610766] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 17:46:43.418 arvi[3626:610766] Multi-tasking -> Device: YES, App: YES
+2015-04-21 17:46:43.425 arvi[3626:610766] Unlimited access to network resources
+2015-04-21 17:46:43.521 arvi[3626:610766] [CDVTimer][keyboard] 0.117004ms
+2015-04-21 17:46:43.521 arvi[3626:610766] [CDVTimer][TotalPluginStartup] 0.432968ms
+2015-04-21 17:46:43.615 arvi[3626:610766] Resetting plugins due to page load.
+2015-04-21 17:46:43.847 arvi[3626:610766] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/01CEA55D-9A84-4DE9-A0F9-8CC52DD579AB/arvi.app/www/index.html#/app/feeds
+2015-04-21 17:46:44.748 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.748 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.748 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.748 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.748 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.748 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.749 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.749 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.749 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.749 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.749 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.749 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.750 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.751 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.751 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.751 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.751 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.751 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.822 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.822 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.823 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.823 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.823 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.823 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.823 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.823 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.823 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.824 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.824 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.824 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.824 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.824 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:44.824 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:45.107 arvi[3626:610766] http://img.yle.fi/uutiset/ulkomaat/article7944288.ece/ALTERNATES/w205h115/21_4+Auschwitzin+kirjanpit%C3%A4j%C3%A4+Oskar+Gr%C3%B6ning+51898238.jpg
+2015-04-21 17:46:45.108 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:45.108 arvi[3626:610766] http://img.yle.fi/uutiset/kotimaa/article6903758.ece/ALTERNATES/w205h115/tukiopetus+opetus+koulu+oppitunti+luokka+kielten+opiskelu+englanti+yl%C3%A4koulu+yl%C3%A4-aste
+2015-04-21 17:46:45.108 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:45.108 arvi[3626:610766] http://img.yle.fi/uutiset/kotimaa/article7943524.ece/ALTERNATES/w205h115/kahvimuki+pahvimuki+kahvi+roska+ekologisuus
+2015-04-21 17:46:45.108 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:45.108 arvi[3626:610766] http://img.yle.fi/uutiset/kotimaa/article7944852.ece/ALTERNATES/w205h115/LKS+20150421_LKS_mtv.jpg
+2015-04-21 17:46:45.108 arvi[3626:610766] http://img.yle.fi/uutiset/hame/article7944819.ece/ALTERNATES/w205h115/Luonnonvarakeskuksen+p%C3%A4%C3%A4johtaja+Mari+Walls.jpg
+2015-04-21 17:46:45.109 arvi[3626:610766] http://img.yle.fi/uutiset/keski-suomi/article7943925.ece/ALTERNATES/w205h115/%C3%84%C3%A4nekoski+Mets%C3%A4+Group+Mets%C3%A4+Fibre+biotuotetehdas+sellutehdas+havainnekuva.jpg
+2015-04-21 17:46:45.109 arvi[3626:610766] http://img.yle.fi/uutiset/ulkomaat/article7882551.ece/ALTERNATES/w205h115/siviililiitto1.jpg
+2015-04-21 17:46:45.109 arvi[3626:610766] http://img.yle.fi/uutiset/kotimaa/article6851253.ece/ALTERNATES/w205h115/Flybe
+2015-04-21 17:46:45.109 arvi[3626:610766] http://img.yle.fi/uutiset/etela-savo/article7943583.ece/ALTERNATES/w205h115/J%C3%A4%C3%A4kasa+Kangasniemi.jpg
+2015-04-21 17:46:45.109 arvi[3626:610766] http://img.yle.fi/uutiset/luonto/article7943333.ece/ALTERNATES/w205h115/Kaskelotti+valas+merentutkimus+
+2015-04-21 17:46:45.109 arvi[3626:610766] http://img.yle.fi/uutiset/kotimaa/article7943119.ece/ALTERNATES/w205h115/sara+saara+forsberg+Smokahontas+17.4.2015+
+2015-04-21 17:46:45.109 arvi[3626:610766] http://img.yle.fi/uutiset/ulkomaat/article7944793.ece/ALTERNATES/w205h115/simpanssi+chimpanzee.jpg
+2015-04-21 17:46:45.110 arvi[3626:610766] /img/news-default-bg.png
+2015-04-21 17:46:45.110 arvi[3626:610766] http://img.yle.fi/uutiset/kainuu/article7863796.ece/ALTERNATES/w205h115/jukka+vetola+p%C3%A4%C3%A4luottamusmies+.jpg
+2015-04-21 17:46:45.110 arvi[3626:610766] http://img.yle.fi/uutiset/satakunta/article7848294.ece/ALTERNATES/w205h115/Lasten-+ja+naistentalo.jpg
+2015-04-21 17:46:53.096 arvi[3626:610766] Resetting plugins due to page load.
+2015-04-21 17:47:01.463 arvi[3626:610766] Finished load of: http://yle.fi/uutiset/luulitko_etta_kestomuki_on_aina_kertakayttomukia_ekologisempi_kayttotapa_ratkaisee/7933832?origin=rss
+2015-04-21 19:43:01.860 arvi[6666:1746928] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 19:43:01.861 arvi[6666:1746928] Multi-tasking -> Device: YES, App: YES
+2015-04-21 19:43:01.868 arvi[6666:1746928] Unlimited access to network resources
+2015-04-21 19:43:01.979 arvi[6666:1746928] [CDVTimer][keyboard] 0.061035ms
+2015-04-21 19:43:01.979 arvi[6666:1746928] [CDVTimer][TotalPluginStartup] 0.241995ms
+2015-04-21 19:43:02.112 arvi[6666:1746928] Resetting plugins due to page load.
+2015-04-21 19:43:02.304 arvi[6666:1746928] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/7E25352C-0B62-494F-964E-C76855E70192/arvi.app/www/index.html#/app/feeds
+2015-04-21 19:43:02.887 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.887 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.887 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.887 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.887 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.887 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.888 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.888 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.888 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.888 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.888 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.888 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.888 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.889 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.890 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.890 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.890 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.956 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.956 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.956 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.957 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.957 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.957 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.957 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.957 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.957 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.958 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.958 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.958 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.958 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.958 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:02.958 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:03.155 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:03.155 arvi[6666:1746928] http://img.yle.fi/uutiset/ulkomaat/article7443735.ece/ALTERNATES/w205h115/31_8+Frankfurth+EKP+keskuspankki+euro+51510948.jpg
+2015-04-21 19:43:03.155 arvi[6666:1746928] /img/news-default-bg.png
+2015-04-21 19:43:03.156 arvi[6666:1746928] http://img.yle.fi/uutiset/media/article7678484.ece/ALTERNATES/w205h115/marika+kataja-lian+n%C3%A4k%C3%B6kulma.jpg
+2015-04-21 19:43:03.156 arvi[6666:1746928] http://img.yle.fi/uutiset/ulkomaat/article7944288.ece/ALTERNATES/w205h115/21_4+Auschwitzin+kirjanpit%C3%A4j%C3%A4+Oskar+Gr%C3%B6ning+51898238.jpg
+2015-04-21 19:43:03.156 arvi[6666:1746928] http://img.yle.fi/uutiset/kotimaa/article7791984.ece/ALTERNATES/w205h115/lapsi+poika+leikki.jpg
+2015-04-21 19:43:03.156 arvi[6666:1746928] http://img.yle.fi/uutiset/kotimaa/article6903758.ece/ALTERNATES/w205h115/tukiopetus+opetus+koulu+oppitunti+luokka+kielten+opiskelu+englanti+yl%C3%A4koulu+yl%C3%A4-aste
+2015-04-21 19:43:03.157 arvi[6666:1746928] http://img.yle.fi/uutiset/kotimaa/article7944852.ece/ALTERNATES/w205h115/LKS+20150421_LKS_mtv.jpg
+2015-04-21 19:43:03.157 arvi[6666:1746928] http://img.yle.fi/uutiset/keski-suomi/article7943925.ece/ALTERNATES/w205h115/%C3%84%C3%A4nekoski+Mets%C3%A4+Group+Mets%C3%A4+Fibre+biotuotetehdas+sellutehdas+havainnekuva.jpg
+2015-04-21 19:43:03.157 arvi[6666:1746928] http://img.yle.fi/uutiset/kotimaa/article7944983.ece/ALTERNATES/w205h115/21_4_naisten_osuus_eduskunta.jpg
+2015-04-21 19:43:03.157 arvi[6666:1746928] http://img.yle.fi/uutiset/kotimaa/article7943524.ece/ALTERNATES/w205h115/kahvimuki+pahvimuki+kahvi+roska+ekologisuus
+2015-04-21 19:43:03.157 arvi[6666:1746928] http://img.yle.fi/uutiset/hame/article7944819.ece/ALTERNATES/w205h115/Luonnonvarakeskuksen+p%C3%A4%C3%A4johtaja+Mari+Walls.jpg
+2015-04-21 19:43:03.158 arvi[6666:1746928] http://img.yle.fi/uutiset/ulkomaat/article7451241.ece/ALTERNATES/w205h115/4_9+Abu+Bakr+al-Baghdadi+51550521.jpg
+2015-04-21 19:43:03.158 arvi[6666:1746928] http://img.yle.fi/uutiset/ulkomaat/article7945200.ece/ALTERNATES/w205h115/21_4+Intia+vauva+poika+50843406.jpg
+2015-04-21 19:43:03.158 arvi[6666:1746928] http://img.yle.fi/uutiset/luonto/article7943333.ece/ALTERNATES/w205h115/Kaskelotti+valas+merentutkimus+
+2015-04-21 19:43:03.158 arvi[6666:1746928] http://img.yle.fi/uutiset/ulkomaat/article7942759.ece/ALTERNATES/w205h115/LKS+20.4.2015+italia+laivaturma+malta+liby%C3%A4+siirtolaisuus
+2015-04-21 19:43:03.158 arvi[6666:1746928] http://img.yle.fi/uutiset/kainuu/article7863796.ece/ALTERNATES/w205h115/jukka+vetola+p%C3%A4%C3%A4luottamusmies+.jpg
+2015-04-21 19:43:06.051 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:06.051 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:06.052 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904517",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:07.844 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:07.845 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:07.845 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904518",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:08.771 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:08.771 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:08.771 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904519",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:08.918 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:08.918 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:08.918 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904520",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:09.131 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:09.132 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:09.132 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904521",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:09.949 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:09.949 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:09.949 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904522",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:10.221 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:10.221 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:10.222 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904523",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:13.569 arvi[6666:1746928] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:13.569 arvi[6666:1746928] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:13.570 arvi[6666:1746928] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser957904524",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:33.364 arvi[7013:1752501] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 19:43:33.365 arvi[7013:1752501] Multi-tasking -> Device: YES, App: YES
+2015-04-21 19:43:33.373 arvi[7013:1752501] Unlimited access to network resources
+2015-04-21 19:43:33.514 arvi[7013:1752501] [CDVTimer][keyboard] 0.065982ms
+2015-04-21 19:43:33.514 arvi[7013:1752501] [CDVTimer][TotalPluginStartup] 0.266969ms
+2015-04-21 19:43:33.604 arvi[7013:1752501] Resetting plugins due to page load.
+2015-04-21 19:43:33.897 arvi[7013:1752501] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/A6070F53-ACE2-4417-81DC-AF36D44800EF/arvi.app/www/index.html#/app/feeds
+2015-04-21 19:43:34.420 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.420 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.420 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.420 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.421 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.421 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.421 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.421 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.421 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.422 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.422 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.422 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.422 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.422 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.423 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.497 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.497 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.498 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.498 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.498 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.498 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.498 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.498 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.499 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.499 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.499 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.499 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.499 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.499 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.499 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.500 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.500 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.500 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.500 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.500 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.500 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.501 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.501 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.501 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:34.501 arvi[7013:1752501] /img/news-default-bg.png
+2015-04-21 19:43:39.475 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:39.476 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:39.476 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039287",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:42.564 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:42.564 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:42.564 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039288",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:42.915 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:42.915 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:42.916 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039289",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:43.084 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:43.084 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:43.084 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039290",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:43.397 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:43.397 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:43.397 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039291",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:43.524 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:43.524 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:43.524 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039292",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:43.676 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:43.677 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:43.677 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039293",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:43.933 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:43.933 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:43.933 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039294",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:44.147 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:44.147 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:44.148 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039295",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:56.946 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:56.954 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:56.955 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039296",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:57.763 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:57.763 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:57.763 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039297",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:58.563 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:58.563 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:58.563 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039298",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:59.207 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:59.207 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:59.207 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039299",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 19:43:59.711 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 19:43:59.711 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 19:43:59.711 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039300",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 22:58:31.752 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 22:58:31.753 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 22:58:31.753 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039301",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 22:58:32.256 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 22:58:32.256 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 22:58:32.256 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039302",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 22:58:32.643 arvi[7013:1752501] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 22:58:32.644 arvi[7013:1752501] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 22:58:32.644 arvi[7013:1752501] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser896039303",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:12.259 arvi[7717:1798488] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 23:44:12.260 arvi[7717:1798488] Multi-tasking -> Device: YES, App: YES
+2015-04-21 23:44:12.296 arvi[7717:1798488] Unlimited access to network resources
+2015-04-21 23:44:12.684 arvi[7717:1798488] [CDVTimer][keyboard] 0.079036ms
+2015-04-21 23:44:12.684 arvi[7717:1798488] [CDVTimer][TotalPluginStartup] 0.271022ms
+2015-04-21 23:44:12.855 arvi[7717:1798488] Resetting plugins due to page load.
+2015-04-21 23:44:13.172 arvi[7717:1798488] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/9B04694F-ECAD-4E41-9121-62D51CBC198C/arvi.app/www/index.html#/app/feeds
+2015-04-21 23:44:18.310 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:18.310 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:18.310 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878420",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:19.127 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:19.127 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:19.127 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878421",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:19.714 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:19.714 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:19.715 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878422",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:20.506 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:20.506 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:20.507 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878423",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:21.521 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:21.521 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:21.522 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878424",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:21.829 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:21.829 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:21.829 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878425",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:24.550 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:24.550 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:24.550 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878426",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:24.725 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:24.725 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:24.725 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878427",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:44:25.407 arvi[7717:1798488] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:44:25.407 arvi[7717:1798488] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:44:25.408 arvi[7717:1798488] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser362878428",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:45:41.298 arvi[8029:1799791] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 23:45:41.299 arvi[8029:1799791] Multi-tasking -> Device: YES, App: YES
+2015-04-21 23:45:41.305 arvi[8029:1799791] Unlimited access to network resources
+2015-04-21 23:45:41.397 arvi[8029:1799791] [CDVTimer][keyboard] 0.078022ms
+2015-04-21 23:45:41.397 arvi[8029:1799791] [CDVTimer][TotalPluginStartup] 0.266016ms
+2015-04-21 23:45:41.487 arvi[8029:1799791] Resetting plugins due to page load.
+2015-04-21 23:45:41.715 arvi[8029:1799791] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/A9689276-235C-4F5A-A24B-D9848A583912/arvi.app/www/index.html#/app/feeds
+2015-04-21 23:45:54.604 arvi[8029:1799791] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:45:54.604 arvi[8029:1799791] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:45:54.605 arvi[8029:1799791] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser1932522265",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:45:55.465 arvi[8029:1799791] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:45:55.466 arvi[8029:1799791] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:45:55.466 arvi[8029:1799791] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser1932522266",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:45:55.647 arvi[8029:1799791] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:45:55.648 arvi[8029:1799791] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:45:55.648 arvi[8029:1799791] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser1932522267",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:45:56.247 arvi[8029:1799791] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:45:56.247 arvi[8029:1799791] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:45:56.248 arvi[8029:1799791] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser1932522268",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:45:56.415 arvi[8029:1799791] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:45:56.415 arvi[8029:1799791] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:45:56.416 arvi[8029:1799791] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser1932522269",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:11.718 arvi[8351:1802210] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 23:48:11.719 arvi[8351:1802210] Multi-tasking -> Device: YES, App: YES
+2015-04-21 23:48:11.726 arvi[8351:1802210] Unlimited access to network resources
+2015-04-21 23:48:11.820 arvi[8351:1802210] [CDVTimer][keyboard] 0.060022ms
+2015-04-21 23:48:11.820 arvi[8351:1802210] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-04-21 23:48:11.904 arvi[8351:1802210] Resetting plugins due to page load.
+2015-04-21 23:48:12.137 arvi[8351:1802210] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/F3199A59-28B5-4123-84B5-900AFD02B72A/arvi.app/www/index.html#/app/feeds
+2015-04-21 23:48:19.297 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:19.297 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:19.297 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882332",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:21.098 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:21.099 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:21.099 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882333",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:21.911 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:21.911 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:21.911 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882334",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:22.389 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:22.389 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:22.389 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882335",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:22.807 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:22.807 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:22.807 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882336",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:23.198 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:23.199 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:23.199 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882337",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:23.582 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:23.582 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:23.582 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882338",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:25.182 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:25.182 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:25.182 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882339",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:25.350 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:25.351 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:25.351 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882340",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:25.923 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:25.924 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:25.924 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882341",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:26.363 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:26.363 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:26.363 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882342",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:27.330 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:27.331 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:27.331 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882343",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:48:29.099 arvi[8351:1802210] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-04-21 23:48:29.099 arvi[8351:1802210] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-04-21 23:48:29.100 arvi[8351:1802210] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser328882344",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/ngcordova.com\/",
+    "_blank",
+    "location=yes,clearcache=yes,toolbar=yes,closebuttoncaption=Valmis"
+  ]
+]
+2015-04-21 23:50:48.126 arvi[8984:1804647] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-21 23:50:48.128 arvi[8984:1804647] Multi-tasking -> Device: YES, App: YES
+2015-04-21 23:50:48.138 arvi[8984:1804647] Unlimited access to network resources
+2015-04-21 23:50:48.263 arvi[8984:1804647] [CDVTimer][keyboard] 0.496984ms
+2015-04-21 23:50:48.264 arvi[8984:1804647] [CDVTimer][TotalPluginStartup] 0.751972ms
+2015-04-21 23:50:48.323 arvi[8984:1804647] Resetting plugins due to page load.
+2015-04-21 23:50:48.513 arvi[8984:1804647] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/D1B96CD3-556E-4A2D-9CC0-B256E0906FA4/arvi.app/www/index.html#/app/feeds
+2015-04-21 23:50:48.702 arvi[8984:1804647] http://img.yle.fi/uutiset/ulkomaat/article7945298.ece/ALTERNATES/w205h115/21_4+Ven%C3%A4j%C3%A4+Moskova+2014+Dmitri+Medvedev+51898112.jpg
+2015-04-21 23:50:48.703 arvi[8984:1804647] http://img.yle.fi/uutiset/arkisto/article5659049.ece/ALTERNATES/w205h115/korkein+oikeus+kko+kyltti
+2015-04-21 23:50:48.703 arvi[8984:1804647] http://img.yle.fi/uutiset/ulkomaat/article7945332.ece/ALTERNATES/w205h115/20150421_182803.jpg
+2015-04-21 23:50:48.703 arvi[8984:1804647] http://img.yle.fi/uutiset/ulkomaat/article7945376.ece/ALTERNATES/w205h115/21+Jemen+Sanaa+51898850.jpg
+2015-04-21 23:50:48.703 arvi[8984:1804647] http://img.yle.fi/uutiset/tiede/article7945369.ece/ALTERNATES/w205h115/21_4_0092_-_Wien_-_Kunsthistorisches_Museum_-_Gaius_Julius_Caesar-edit.jpg
+2015-04-21 23:50:48.704 arvi[8984:1804647] http://img.yle.fi/uutiset/savo/article7940702.ece/ALTERNATES/w205h115/kes%C3%A4ty%C3%B6+myyj%C3%A4+merlin+hallman.jpg
+2015-04-21 23:50:48.704 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.704 arvi[8984:1804647] http://img.yle.fi/uutiset/ulkomaat/article7944288.ece/ALTERNATES/w205h115/21_4+Auschwitzin+kirjanpit%C3%A4j%C3%A4+Oskar+Gr%C3%B6ning+51898238.jpg
+2015-04-21 23:50:48.704 arvi[8984:1804647] http://img.yle.fi/uutiset/kotimaa/article7944852.ece/ALTERNATES/w205h115/LKS+20150421_LKS_mtv.jpg
+2015-04-21 23:50:48.705 arvi[8984:1804647] http://img.yle.fi/uutiset/keski-suomi/article7943925.ece/ALTERNATES/w205h115/%C3%84%C3%A4nekoski+Mets%C3%A4+Group+Mets%C3%A4+Fibre+biotuotetehdas+sellutehdas+havainnekuva.jpg
+2015-04-21 23:50:48.705 arvi[8984:1804647] http://img.yle.fi/uutiset/media/article7678484.ece/ALTERNATES/w205h115/marika+kataja-lian+n%C3%A4k%C3%B6kulma.jpg
+2015-04-21 23:50:48.705 arvi[8984:1804647] http://img.yle.fi/uutiset/kotimaa/article7944983.ece/ALTERNATES/w205h115/21_4_naisten_osuus_eduskunta.jpg
+2015-04-21 23:50:48.705 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.706 arvi[8984:1804647] http://img.yle.fi/uutiset/kotimaa/article6903758.ece/ALTERNATES/w205h115/tukiopetus+opetus+koulu+oppitunti+luokka+kielten+opiskelu+englanti+yl%C3%A4koulu+yl%C3%A4-aste
+2015-04-21 23:50:48.706 arvi[8984:1804647] http://img.yle.fi/uutiset/ulkomaat/article7942759.ece/ALTERNATES/w205h115/LKS+20.4.2015+italia+laivaturma+malta+liby%C3%A4+siirtolaisuus
+2015-04-21 23:50:48.706 arvi[8984:1804647] http://img.yle.fi/uutiset/ulkomaat/article7443735.ece/ALTERNATES/w205h115/31_8+Frankfurth+EKP+keskuspankki+euro+51510948.jpg
+2015-04-21 23:50:48.706 arvi[8984:1804647] http://img.yle.fi/uutiset/kotimaa/article7791984.ece/ALTERNATES/w205h115/lapsi+poika+leikki.jpg
+2015-04-21 23:50:48.707 arvi[8984:1804647] http://img.yle.fi/uutiset/hame/article7944819.ece/ALTERNATES/w205h115/Luonnonvarakeskuksen+p%C3%A4%C3%A4johtaja+Mari+Walls.jpg
+2015-04-21 23:50:48.707 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.707 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.707 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.708 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.708 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.708 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.708 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.708 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.709 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.709 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.709 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.709 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.709 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.710 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.710 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.710 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.710 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.710 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.711 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.711 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.711 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.711 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.712 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.712 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:48.712 arvi[8984:1804647] /img/news-default-bg.png
+2015-04-21 23:50:50.043 arvi[8984:1804647] THREAD WARNING: ['InAppBrowser'] took '94.260986' ms. Plugin should use a background thread.
+2015-04-22 00:11:42.654 arvi[9442:1813549] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-22 00:11:42.656 arvi[9442:1813549] Multi-tasking -> Device: YES, App: YES
+2015-04-22 00:11:42.663 arvi[9442:1813549] Unlimited access to network resources
+2015-04-22 00:11:42.762 arvi[9442:1813549] [CDVTimer][keyboard] 0.061989ms
+2015-04-22 00:11:42.762 arvi[9442:1813549] [CDVTimer][TotalPluginStartup] 0.248969ms
+2015-04-22 00:11:42.846 arvi[9442:1813549] Resetting plugins due to page load.
+2015-04-22 00:11:43.076 arvi[9442:1813549] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/06A322F4-91CF-45C8-874B-F9AA6B6E2290/arvi.app/www/index.html#/app/feeds
+2015-04-22 00:11:49.077 arvi[9442:1813549] THREAD WARNING: ['InAppBrowser'] took '92.432129' ms. Plugin should use a background thread.
+2015-04-22 00:11:58.084 arvi[9442:1813549] THREAD WARNING: ['InAppBrowser'] took '78.621094' ms. Plugin should use a background thread.
+2015-04-22 00:13:54.194 arvi[9754:1815159] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-22 00:13:54.195 arvi[9754:1815159] Multi-tasking -> Device: YES, App: YES
+2015-04-22 00:13:54.202 arvi[9754:1815159] Unlimited access to network resources
+2015-04-22 00:13:54.324 arvi[9754:1815159] [CDVTimer][keyboard] 0.061989ms
+2015-04-22 00:13:54.325 arvi[9754:1815159] [CDVTimer][TotalPluginStartup] 0.276983ms
+2015-04-22 00:13:54.394 arvi[9754:1815159] Resetting plugins due to page load.
+2015-04-22 00:13:54.627 arvi[9754:1815159] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/C005649B-041A-4078-8A5F-1B387CB75FB0/arvi.app/www/index.html#/app/feeds
+2015-04-22 00:13:59.211 arvi[9754:1815159] THREAD WARNING: ['InAppBrowser'] took '94.450195' ms. Plugin should use a background thread.
+2015-04-22 00:14:05.064 arvi[9754:1815159] THREAD WARNING: ['InAppBrowser'] took '65.541016' ms. Plugin should use a background thread.
+2015-04-22 00:14:34.550 arvi[10059:1816120] Apache Cordova native platform version 3.6.3 is starting.
+2015-04-22 00:14:34.552 arvi[10059:1816120] Multi-tasking -> Device: YES, App: YES
+2015-04-22 00:14:34.560 arvi[10059:1816120] Unlimited access to network resources
+2015-04-22 00:14:34.650 arvi[10059:1816120] [CDVTimer][keyboard] 0.120044ms
+2015-04-22 00:14:34.650 arvi[10059:1816120] [CDVTimer][TotalPluginStartup] 0.432014ms
+2015-04-22 00:14:34.721 arvi[10059:1816120] Resetting plugins due to page load.
+2015-04-22 00:14:34.940 arvi[10059:1816120] Finished load of: file:///Users/Tom/Library/Developer/CoreSimulator/Devices/B0E38E74-9084-414D-A66C-47B817A52DED/data/Containers/Bundle/Application/CBCE7E70-ED03-4DFA-947D-47C7EAB97D62/arvi.app/www/index.html#/app/feeds
+2015-04-22 00:15:00.871 arvi[10059:1816120] THREAD WARNING: ['InAppBrowser'] took '92.523926' ms. Plugin should use a background thread.
+2015-04-22 00:15:06.258 arvi[10059:1816120] THREAD WARNING: ['InAppBrowser'] took '83.163086' ms. Plugin should use a background thread.
+2015-04-22 00:15:11.529 arvi[10059:1816120] THREAD WARNING: ['InAppBrowser'] took '67.732910' ms. Plugin should use a background thread.

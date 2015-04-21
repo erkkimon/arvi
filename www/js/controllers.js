@@ -3,7 +3,29 @@ angular.module('starter.controllers', [])
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
 })
 
-.controller('FeedsCtrl', function($http, $scope, Feeds) {
+.controller('FeedsCtrl', function($http, $scope, $ionicPlatform, $cordovaInAppBrowser, Feeds) {
+
+  $ionicPlatform.ready(function() {
+
+     var options = {
+	      location: 'yes',
+	      clearcache: 'yes',
+	      toolbar: 'yes',
+	      closebuttoncaption: 'Valmis'
+	    };
+	
+	    $scope.openlink = function() {
+			//alert("asf");
+	      $cordovaInAppBrowser.open('http://ngcordova.com', '_blank', options)
+	        .then(function(event) {
+	          // success
+	        })
+	        .catch(function(event) {
+	          // error
+	        });
+	    }
+	
+	  });
 
 	var feedUrls = [
 		"http://yle.fi/uutiset/rss/paauutiset.rss", 

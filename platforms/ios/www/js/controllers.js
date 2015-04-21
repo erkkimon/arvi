@@ -3,7 +3,29 @@ angular.module('starter.controllers', [])
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
 })
 
-.controller('FeedsCtrl', function($http, $scope, Feeds) {
+.controller('FeedsCtrl', function($http, $scope, $ionicPlatform, $cordovaInAppBrowser, Feeds) {
+
+  $ionicPlatform.ready(function() {
+
+     var options = {
+	      location: 'yes',
+	      clearcache: 'yes',
+	      toolbar: 'yes',
+	      closebuttoncaption: 'Valmis'
+	    };
+	
+	    $scope.openlink = function() {
+			//alert("asf");
+	      $cordovaInAppBrowser.open('http://ngcordova.com', '_blank', options)
+	        .then(function(event) {
+	          // success
+	        })
+	        .catch(function(event) {
+	          // error
+	        });
+	    }
+	
+	  });
 
 	var feedUrls = [
 		"http://yle.fi/uutiset/rss/paauutiset.rss", 
@@ -18,7 +40,15 @@ angular.module('starter.controllers', [])
 			//allFeedItems = data.rss.channel.item;
 			data.rss.channel["item"].forEach(function(feedItem) {
 				feedItem["timestamp"] = Date.parse(feedItem["pubDate"])/1000;
+				if(!("enclosure" in feedItem)) {
+					feedItem["enclosure"] = [];
+					feedItem.enclosure["_url"] = "/img/news-default-bg.png";
+				}
 				allFeedItems.push(feedItem);
+				//if(("_url" in feedItem.enclosure)) {
+					//feedItem.enclosure["_url"] = "";
+				//}
+				console.log(feedItem.enclosure["_url"]);
 			});
 		});
 	});

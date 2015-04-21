@@ -18,7 +18,7 @@
 	<!-- xml2json -->
 	<script src="lib/xml2json/xml2json.js"></script>
 
-	<!-- link to ngCordova -->
+	<!-- ngCordova -->
 	<script src="bower_components/ngCordova/dist/ng-cordova.js"></script>
 
     <!-- cordova script (this will be a 404 during development) -->
@@ -29,18 +29,6 @@
 	<script src="js/services.js"></script>
     <script src="js/controllers.js"></script>
 
-	<script>
-	    document.onclick = function (e) {
-	        e = e ||  window.event;
-	        var element = e.target || e.srcElement;
-	 
-	        if (element.tagName == 'A') {
-	            window.open(element.href, "_blank", "location=yes");
-	            return false;
-	        }
-	    };
-	</script>
-	
   </head>
 
   <body ng-app="starter">

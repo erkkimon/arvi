@@ -27,8 +27,13 @@ body .view-container.tab-content {
   background-color: transparent;
 }
 
-body .pane, .menu, .view, .list, .item       {
+body .pane, .menu, .view, .list, .item {
     background: transparent;
+}
+
+.headline {
+    font-weight: bold;
+	font-size: 30px;
 }
 
 
