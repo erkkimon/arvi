@@ -14,9 +14,8 @@ angular.module('starter.controllers', [])
 	      closebuttoncaption: 'Valmis'
 	    };
 	
-	    $scope.openlink = function() {
-			//alert("asf");
-	      $cordovaInAppBrowser.open('http://ngcordova.com', '_blank', options)
+	    $scope.openlink = function(link) {
+	      $cordovaInAppBrowser.open(link, '_blank', options)
 	        .then(function(event) {
 	          // success
 	        })
